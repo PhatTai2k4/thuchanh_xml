@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+    <book>
+        <title>Lập Trình C++ Cơ Bản</title>
+        <author>Nguyễn Văn A</author>
+        <year>2020</year>
+        <genre>Lập trình</genre>
+    </book>
+
+    <book>
+        <title>Trí Tuệ Nhân Tạo</title>
+        <author>Trần Thị B</author>
+        <year>2022</year>
+        <genre>Khoa học máy tính</genre>
+    </book>
+
+    <book>
+        <title>Những Người Khốn Khổ</title>
+        <author>Victor Hugo</author>
+        <year>1862</year>
+        <genre>Tiểu thuyết</genre>
+    </book>
+</library>
